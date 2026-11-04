@@ -88,6 +88,3 @@ The available fonts and Windows display scaling can affect the appearance. The a
 - PerfCap decoding is best-effort; the raw code is also displayed so it can be checked against GPU-Z.
 - This is an independent project and is not affiliated with or endorsed by Nothing or TechPowerUp.
 
-## License
-
-No license has been added yet. Add a `LICENSE` file if you want to specify how others may use, modify, and redistribute this project.
