@@ -7,8 +7,7 @@ The app reads GPU-Z's shared memory and presents hardware telemetry in a respons
 ## Screenshot
 
 ![GPU-Z Nothing Monitor screenshot](screenshot.png)
-
-> Upload a file named `screenshot.png` to the repository root to make it appear here. You can also add more screenshots or an animated GIF below.
+![GPU-Z Nothing Monitor screenshot 2](screenshot-2.png)
 
 ## Features
 
